@@ -1,0 +1,44 @@
+img{
+    width: 150px;
+}
+.custom-input{
+    width: 65px !important;
+    border: 2px solid black;
+    border-radius: 10px!important;
+    font-weight: 700;
+    font-size: 20px;
+}
+.center-item{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.bi{
+    -webkit-text-stroke: 2px;
+    font-size: 25px;
+}
+.container{
+    margin-top: 100px;
+    background-color: rgb(228, 228, 228);
+}
+.cart-item{
+    background-color: #fff;
+}
+.heading{
+    padding-left: 110px;
+}
+.amount{
+    text-align: right;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.cart-button{
+    font-size: 20px !important;
+}
+.bi-x{
+    color: red;
+}
+.cross-button{
+    border: none;
+    background-color: none;
+}
